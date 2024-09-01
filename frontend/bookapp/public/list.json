@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Welcome to your personal library! Dive into a world of endless stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 2,
+    "name": "Mystery of the Night",
+    "title": "Unlock the secrets hidden in the shadows.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 3,
+    "name": "Adventures Beyond",
+    "title": "Embark on a journey across unknown realms.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 4,
+    "name": "Love's Whisper",
+    "title": "A tale of love that transcends time.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 5,
+    "name": "Journey to Knowledge",
+    "title": "Expand your mind with these enlightening reads.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 6,
+    "name": "Digital Revolution",
+    "title": "Explore the rise of technology and its impact.",
+    "price": 100,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 7,
+    "name": "The Last Kingdom",
+    "title": "Defend your honor in a world of battles and kings.",
+    "price": 95,
+    "category": "Historical Fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 8,
+    "name": "Mindful Living",
+    "title": "Find peace and purpose in every moment.",
+    "price": 85,
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 9,
+    "name": "Galactic Wars",
+    "title": "Battle for survival in the far reaches of the galaxy.",
+    "price": 120,
+    "category": "Science Fiction",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 10,
+    "name": "Poetry of Dreams",
+    "title": "An anthology of poems to soothe the soul.",
+    "price": 70,
+    "category": "Poetry",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 11,
+    "name": "Cooking with Spices",
+    "title": "Delicious recipes from around the world.",
+    "price": 90,
+    "category": "Cookbook",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 12,
+    "name": "Art of War",
+    "title": "Timeless strategies for success.",
+    "price": 65,
+    "category": "Philosophy",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 13,
+    "name": "Python Programming",
+    "title": "Learn to code with Python, the language of the future.",
+    "price": 110,
+    "category": "Education",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 14,
+    "name": "Gardening Secrets",
+    "title": "Uncover the art of growing a lush garden.",
+    "price": 55,
+    "category": "Hobby",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 15,
+    "name": "Ocean's Fury",
+    "title": "Survive the tempest of the seven seas.",
+    "price": 130,
+    "category": "Adventure",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 16,
+    "name": "City of Dreams",
+    "title": "Discover the secrets hidden in the city that never sleeps.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 17,
+    "name": "Meditation for Beginners",
+    "title": "Start your journey to mindfulness and inner peace.",
+    "price": 50,
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 18,
+    "name": "Virtual Reality",
+    "title": "Understand the future of technology and virtual worlds.",
+    "price": 75,
+    "category": "Technology",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 19,
+    "name": "Quantum Mechanics Explained",
+    "title": "Dive deep into the world of quantum physics.",
+    "price": 90,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 20,
+    "name": "Dreamer's Dictionary",
+    "title": "Interpret your dreams and unlock their meanings.",
+    "price": 60,
+    "category": "Spirituality",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 21,
+    "name": "Cryptocurrency Mastery",
+    "title": "Learn the secrets to investing in cryptocurrencies.",
+    "price": 120,
+    "category": "Finance",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 22,
+    "name": "Fairy Tales Retold",
+    "title": "Experience classic tales with a modern twist.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 23,
+    "name": "Astronomy 101",
+    "title": "Explore the cosmos and understand the universe.",
+    "price": 85,
+    "category": "Science",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 24,
+    "name": "The Art of Minimalism",
+    "title": "Simplify your life and find freedom.",
+    "price": 40,
+    "category": "Lifestyle",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 25,
+    "name": "Startup Success",
+    "title": "Turn your business idea into reality.",
+    "price": 100,
+    "category": "Business",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 26,
+    "name": "Healthy Eating",
+    "title": "Discover nutritious recipes for a better life.",
+    "price": 50,
+    "category": "Health",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 27,
+    "name": "The Ancient World",
+    "title": "Explore the mysteries of ancient civilizations.",
+    "price": 95,
+    "category": "History",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 28,
+    "name": "Mystical Creatures",
+    "title": "Learn about the folklore of mythical beings.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 29,
+    "name": "Zen and the Art of Writing",
+    "title": "Enhance your creative writing skills.",
+    "price": 70,
+    "category": "Creative Writing",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  },
+  {
+    "id": 30,
+    "name": "Urban Legends",
+    "title": "Unravel the truth behind urban myths.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740"
+  }
+]
